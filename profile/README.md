@@ -10,6 +10,7 @@ Homepage: [DNSLab, Korea University](https://dnslab.korea.ac.kr/)
 - Member: Hyeongeun Kim
 - Member: Soojin Cho
 - Member: Daseul Kim
+- Member: Minse Kim
 
 
 ## Bug list
