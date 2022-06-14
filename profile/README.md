@@ -25,3 +25,4 @@ Homepage: [DNSLab, Korea University](https://dnslab.korea.ac.kr/)
 | Microsoft | Windows Upgrade Assistant     | CVE-2022-24543 | Remote Code Execution | [DoHyun Lee](https://twitter.com/l33d0hyun) |
 | Samsung | Gear IconX PC Manager     | SVE-2022-0539 (CVE-2022-28792) | Remote Code Execution | Soojin Cho |
 | Google | Chrome V8     | CVE-2022-1638 | Remote Code Execution | [DoHyun Lee](https://twitter.com/l33d0hyun) |
+| Samsung | Kies     | SVE-2022-0854 (CVE-2022-30744) | Remote Code Execution | [DoHyun Lee](https://twitter.com/l33d0hyun) |
