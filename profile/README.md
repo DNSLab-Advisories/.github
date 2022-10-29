@@ -27,5 +27,6 @@ Homepage: [DNSLab, Korea University](https://dnslab.korea.ac.kr/)
 | Google | Chrome V8     | CVE-2022-1638 | Remote Code Execution | [DoHyun Lee](https://twitter.com/l33d0hyun) |
 | Samsung | Kies     | SVE-2022-0854 (CVE-2022-30744) | Remote Code Execution | [DoHyun Lee](https://twitter.com/l33d0hyun) |
 | Samsung | Samsung USB Driver     | SVE-2022-1099 (CVE-2022-33711) | Remote Code Execution | [DoHyun Lee](https://twitter.com/l33d0hyun) |
-| Apple | Safari WebKit     | CVE-2022-32816 | UI Spoofing | [DoHyun Lee](https://twitter.com/l33d0hyun) |
+| Apple | Safari     | CVE-2022-32816 | UI Spoofing | [DoHyun Lee](https://twitter.com/l33d0hyun) |
 | Apple | Safari ICU     | CVE-2022-32787 | Remote Code Execution | [DoHyun Lee](https://twitter.com/l33d0hyun) |
+| Apple | Safari     | CVE-2022-42824 | Information Leakage | [DoHyun Lee](https://twitter.com/l33d0hyun) |
