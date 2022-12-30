@@ -31,3 +31,4 @@ Homepage: [DNSLab, Korea University](https://dnslab.korea.ac.kr/)
 | Apple | Safari     | CVE-2022-32816 | UI Spoofing | [DoHyun Lee](https://twitter.com/l33d0hyun) |
 | Apple | Safari ICU     | CVE-2022-32787 | Remote Code Execution | [DoHyun Lee](https://twitter.com/l33d0hyun) |
 | Apple | Safari     | CVE-2022-42824 | Information Leakage | [DoHyun Lee](https://twitter.com/l33d0hyun) |
+| Apple | Safari     | CVE-2022-46698 | Information Leakage | [DoHyun Lee](https://twitter.com/l33d0hyun) |
